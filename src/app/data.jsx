@@ -1,5 +1,5 @@
 export const personalInfo = {
-    age: "95后",
+    age: "95🐒",
     education: "本科（山东省科学院）",
     personality: "ENTP (外向、直觉、思考、知觉)",
 };
@@ -14,28 +14,28 @@ export const workExperience = [
     {
         title: "零售业务技术负责人 @ 巨益科技",
         time: "2023 - 现在",
-        description: "负责开发和维护核心产品功能，带领小型开发团队。",
+        description: "带领零售业务团队",
         current: true,
     },
     {
         title: "混合云技术专家 @ 阿里巴巴",
         time: "2022 - 2023",
-        description: "参与开发多个成功的Web应用，专注于前端技术。",
+        description: "入职阿里巴巴，担任混合云/转售技术专家承接集团年度百亿采销任务",
     },
     {
         title: "OMS3技术交付团队TL @ 巨益科技",
         time: "2021 - 2022",
-        description: "参与开发多个成功的Web应用，专注于前端技术。",
+        description: "带领OMS3.0技术交付团队上线361、领克等项目",
     },
     {
         title: "OMS2技术团队TL @ 巨益科技",
         time: "2019 - 2020",
-        description: "参与开发多个成功的Web应用，专注于前端技术。",
+        description: "带领OMS2.0技术团队荣获“年度最佳技术团队” 产品荣获京东“京卓越”， 淘宝“最佳供应商“",
     },
     {
         title: "工程师 @ 巨益科技",
         time: "2018 - 2019",
-        description: "协助开发内部工具，学习并应用最佳实践。",
+        description: "大学毕业，入职巨益科技担任研发工程师， 荣获“年度最佳新人”",
     },
 ];
 
