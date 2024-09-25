@@ -14,8 +14,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-    title: "财神的个人使用说明书",
-    description: "财神的个人使用说明书",
+    title: "财神的个人说明书",
+    description: "财神的个人说明书",
 };
 
 export default function RootLayout({

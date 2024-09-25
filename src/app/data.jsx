@@ -1,5 +1,5 @@
 export const personalInfo = {
-    age: "95🐒",
+    age: "95后",
     education: "本科（山东省科学院）",
     personality: "ENTP (外向、直觉、思考、知觉)",
 };

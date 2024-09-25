@@ -7,7 +7,7 @@ export default function PersonalManual() {
     return (
         <div className="container mx-auto p-4 max-w-4xl">
             <h1 className="text-4xl font-bold text-center mb-8 text-gradient bg-clip-text text-transparent bg-gradient-to-r from-purple-600 to-pink-600">
-                个人使用说明书
+                个人说明书
             </h1>
 
             <div className="grid gap-6 md:grid-cols-2">
