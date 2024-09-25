@@ -23,17 +23,17 @@ export const workExperience = [
         description: "入职阿里巴巴，担任混合云/转售技术专家承接集团年度百亿采销任务",
     },
     {
-        title: "OMS3技术交付团队TL @ 巨益科技",
+        title: "OMS3技术交付团队负责人 @ 巨益科技",
         time: "2021 - 2022",
         description: "带领OMS3.0技术交付团队上线361、领克等项目",
     },
     {
-        title: "OMS2技术团队TL @ 巨益科技",
+        title: "OMS2技术团队负责人 @ 巨益科技",
         time: "2019 - 2020",
         description: "带领OMS2.0技术团队荣获“年度最佳技术团队” 产品荣获京东“京卓越”， 淘宝“最佳供应商“",
     },
     {
-        title: "工程师 @ 巨益科技",
+        title: "Java工程师 @ 巨益科技",
         time: "2018 - 2019",
         description: "大学毕业，入职巨益科技担任研发工程师， 荣获“年度最佳新人”",
     },
