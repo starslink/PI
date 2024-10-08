@@ -30,7 +30,7 @@ export const workExperience = [
     {
         title: "OMS2技术团队负责人 @ 巨益科技",
         time: "2019 - 2020",
-        description: "带领OMS2.0技术团队，荣获“年度最佳技术团队” 产品荣获京东“京卓越”， 淘宝“最佳供应商“",
+        description: "带领OMS2.0技术团队，荣获“年度最佳技术团队”。 产品荣获京东“京卓越”， 淘宝“最佳供应商“",
     },
     {
         title: "Java工程师 @ 巨益科技",
